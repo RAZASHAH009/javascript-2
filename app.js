@@ -157,10 +157,12 @@ console.log (--bb - --cc + ++bb + bb--);
 
 
     //  Q3
-    // Q4
-    // Q5
-    // Q6
     
+ var name = prompt("Enter your name");
+alert("Hello! " + name);
+
+    // Q4
+//     end
 
 
 
